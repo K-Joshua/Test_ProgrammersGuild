@@ -1,0 +1,1 @@
+print("Uli nta guysss kaulion nasad ko")
